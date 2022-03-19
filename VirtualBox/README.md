@@ -31,7 +31,7 @@
 
 <cite style="display:block; text-align: justify"><FONT COLOR="red"><b><u>* La red del host del VirtualBox:</b></u> </FONT>Este instalara un controlador y adaptador de red virtual y nos ayudara para que nuestra maquina virtual acceda al host del anfitrión.</cite>
 
-<cite style="display:block; text-align: justify"><FONT COLOR="red"><b><u>*El soporte de Python:</b></u> </FONT>Este instalara un script para el VirtualBox.</cite>
+<cite style="display:block; text-align: justify"><FONT COLOR="red"><b><u>* El soporte de Python:</b></u> </FONT>Este instalara un script para el VirtualBox.</cite>
 
 <cite style="display:block; text-align: justify">Una vez ya tengamos claro las características que vamos a instalar le daremos en siguiente
 </cite>
