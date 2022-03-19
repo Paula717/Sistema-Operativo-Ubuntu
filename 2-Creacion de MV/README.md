@@ -84,7 +84,7 @@ En nuestro selecionamos la opción de reservado dinámicamente y le damos en sig
 
 # <b>Tamaño de disco duro virtual</b>
 
-<cite style="display:block; text-align: justify">En esta ventana nos pide que seleccionemos el tamaño del disco duro, para instalar y utilizar Ubuntu 20.10 correctamente, la maquina debe tener 25GB de espacio libre en el disco duro (o tan solo 8.6 GB para la instalación mínima).
+<cite style="display:block; text-align: justify">En esta ventana nos pide que seleccionemos el tamaño del disco duro, para instalar y utilizar Ubuntu 21.10 correctamente, la maquina debe tener 25GB de espacio libre en el disco duro (o tan solo 8.6 GB para la instalación mínima).
 
 En nuestro caso le asignaremos 25GB, y le daremos en crear.
 
