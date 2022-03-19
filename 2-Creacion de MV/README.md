@@ -6,10 +6,14 @@
 
 #  <b>Creación de Máquina Virtual </b>
 
-<cite style="display:block; text-align: justify">Para este caso vamos a instalar [Ubuntu 21.10][1_1], esta instalación la vamos a realizar dentro de un programa llamado [VirtualBox][1_0], este programa nos permitirá correr el sistema de Ubuntu dentro de nuestra computadora.</cite>
+<cite style="display:block; text-align: justify">Para este caso vamos a instalar [Ubuntu 21.10][1_1], esta instalación la vamos a realizar dentro de un programa llamado [VirtualBox][1_0], este programa nos permitirá correr el sistema de Ubuntu dentro de nuestra computadora sin tener que hacer modificaciones fisicas.</cite>
 
 [1_0]:https://www.virtualbox.org/wiki/Downloads
 
 [1_1]:https://ubuntu.com
 
 ![Ubuntu](img_Creacion_MV/img10.png)
+
+<cite style="display:block; text-align: justify">Abrimos el VirtualBox y le damos el nueva para crear una nueva maquina virtual.</cite>
+
+![maquina](img_Creacion_MV/img11.png)

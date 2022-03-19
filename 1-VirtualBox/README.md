@@ -56,4 +56,4 @@
 <cite style="display:block; text-align: justify">Ya tenemos instalado nuestro VirtualBox.
 </cite>
 
-![Instalador](img_Instalacion_Hipervisor/img8.png)
+![VB](img_Instalacion_Hipervisor/img8.png)
