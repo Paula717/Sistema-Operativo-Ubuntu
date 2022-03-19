@@ -14,6 +14,21 @@
 
 ![Ubuntu](img_Creacion_MV/img10.png)
 
-<cite style="display:block; text-align: justify">Abrimos el VirtualBox y le damos el nueva para crear una nueva maquina virtual.</cite>
+<cite style="display:block; text-align: justify">Abrimos el VirtualBox y le damos el nueva para crear una nueva máquina virtual.</cite>
 
 ![maquina](img_Creacion_MV/img11.png)
+
+<cite style="display:block; text-align: justify">Le damos un nombre a nuestra máquina virtual, en nuestro caso la llamaremos Ubuntu 21.10 ya que ese es el Sistema Operativo con el que vamos a trabajar.</cite>
+
+![maquina](img_Creacion_MV/img12.png)
+
+<cite style="display:block; text-align: justify">En la parte donde dice carpeta de máquina, es la ubicación donde se va almacenar nuestra maquina virtual, la podemos dejar como esta por defecto, pero en nuestro caso la vamos a almacenar en un disco externo.
+
+Para eso le daremos en otro y buscaremos nuestro disco externo, una vez encontrado seleccionamos la carpeta y le damos en siguiente.
+</cite>
+
+![maquina](img_Creacion_MV/img13.png)
+
+![maquina](img_Creacion_MV/img14.png)
+
+![maquina](img_Creacion_MV/img15.png)
