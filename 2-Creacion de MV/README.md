@@ -42,6 +42,13 @@ Debemos tener en cuenta que la cantidad de memoria asignada debe estar dentro de
 Una vez asignada la memoria Ram le damos en siguiente.
 </cite>
 
-![maquina](img_Creacion_MV/img16.png)
+![Tamaño de RAM](img_Creacion_MV/img16.png)
 
 #  <b>Disco duro</b>
+
+<cite style="display:block; text-align: justify">Necesitaremos un disco duro para nuestra maquina Virtual, teniendo en cuenta esto dejaremos seleccionada la opción de crear un [disco duro virtual][1_2].
+</cite>
+
+[1_2]:https://es.wikipedia.org/wiki/Disco_virtual
+
+![Disco duro](img_Creacion_MV/img17.png)
