@@ -1,2 +1,2 @@
-# Sistema-Operativo-Ubuntu
-Tutorial de instalación del Sistema Operativo Ubuntu
+# Creacion de Maquina Virtual
+Tutorial para crear Maquinas virtuales
