@@ -56,12 +56,13 @@ Una vez asignada la memoria Ram le damos en siguiente.
 # <b>Tipos de archivo de disco duro virtual en VirtualBox</b>
 
 <cite style="display:block; text-align: justify">En esta ventana nos pide que seleccionemos el tipo de archivo que queremos usar para nuestro disco duro virtual.
+
 Nos muestran 3 opciones las cuales son:
-* <b>VDI (VirtualBox Disk Image):</b> es la selección por defecto, es el sistema utilizado por Oracle VM VirtualBox, por lo que si no buscamos nada extravagante será la opción a elegir.
+* <b>VDI (VirtualBox Disk Image):</b> Es la selección por defecto, es el sistema utilizado por Oracle VM VirtualBox, por lo que si no buscamos nada extravagante será la opción a elegir.
 
-* <b>VHD (Virtual Hard Disk):</b> es la opción a elegir si lo que queremos es crear un disco virtual versátil, que podamos recuperar cualquier archivo en su interior fácilmente. Se podrá utilizar como unidad de almacenamiento habitual y soporta particiones de todo tipo, como cualquier otro disco duro, además de varios usuarios por cada SO virtual instalado en él. Se utiliza sobre todo para Microsoft Virtual PC.
+* <b>VHD (Virtual Hard Disk):</b> Es la opción a elegir si lo que queremos es crear un disco virtual versátil, que podamos recuperar cualquier archivo en su interior fácilmente. Se podrá utilizar como unidad de almacenamiento habitual y soporta particiones de todo tipo, como cualquier otro disco duro, además de varios usuarios por cada SO virtual instalado en él. Se utiliza sobre todo para Microsoft Virtual PC.
 
-* <b> VMDK (VirtualBox Machine Disk):</b> es el formato típico de VMWare (otro software de virtualización, semejante a VirtualBox). Se escogerá esta opción para contar con plena compatibilidad entre VMWare y VirtualBox y poder pasar sistemas operativos virtuales entre ambos softwares sin mayor problema.
+* <b> VMDK (VirtualBox Machine Disk):</b> Es el formato típico de VMWare (otro software de virtualización, semejante a VirtualBox). Se escogerá esta opción para contar con plena compatibilidad entre VMWare y VirtualBox y poder pasar sistemas operativos virtuales entre ambos softwares sin mayor problema.
 
 Nosotros lo dejaremos en la opción de <b>VDI</b> y le daremos siguiente.
 </cite>
