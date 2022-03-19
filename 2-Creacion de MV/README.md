@@ -68,3 +68,16 @@ Nosotros lo dejaremos en la opción de <b>VDI</b> y le daremos siguiente.
 </cite>
 
 ![Tipo de Disco](img_Creacion_MV/img18.png)
+
+# <b>Almacenamiento en unidad de disco duro fisico</b>
+
+<cite style="display:block; text-align: justify">Cuando creamos una nueva máquina virtual tenemos la opción de seleccionar alguna de las siguientes opciones con respecto al espacio del disco:
+
+* En caso de seleccionar la opción <b>"Tamaño fijo"</b> hace referencia a que se definió un tamaño fijo para que VirtualBox lo use para el sistema operativo invitado. No puede crecer ni contraerse más allá de un límite establecido.
+
+* En el caso de seleccionar la opción <b>"Reservado dinámicamente"</b> al crear la VM, permite que el sistema operativo aumente dinámicamente la asignación de almacenamiento.
+
+En nuestro selecionamos la opción de reservado dinámicamente y le damos en siguiente.
+</cite>
+
+![Almacenamiento DD](img_Creacion_MV/img19.png)
