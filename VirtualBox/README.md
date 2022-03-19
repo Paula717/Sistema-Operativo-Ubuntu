@@ -16,3 +16,7 @@
 <cite style="display:block; text-align: justify">Una vez que termine la descarga, le damos clic derecho al instalador y lo ejecutamos como administrador, si pide permiso le damos en si.</cite>
 
 ![Instalador](img_Instalacion_Hipervisor/img2.png)
+
+<cite style="display:block; text-align: justify">Le damos en siguiente</cite>
+
+![Instalador](img_Instalacion_Hipervisor/img3.png)
