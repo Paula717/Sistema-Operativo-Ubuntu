@@ -95,4 +95,4 @@ En nuestro caso le asignaremos 25GB, y le daremos en crear.
 <cite style="display:block; text-align: justify">De esta manera ya estaria creada nuestra máquina virtual.
 </cite>
 
-![Almacenamiento DD](img_Creacion_MV/img21.png)
+![VM](img_Creacion_MV/img21.png)
