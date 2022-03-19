@@ -48,7 +48,7 @@
 
 ![Instalador](img_Instalacion_Hipervisor/img6.png)
 
-<cite style="display:block; text-align: justify">De esta manera comenzara la instalación del VirtualBox.
+<cite style="display:block; text-align: justify">De esta manera comenzara la instalación del VirtualBox, una vez finalizada la intalación le damos en finalizar.
 </cite>
 
 ![Instalador](img_Instalacion_Hipervisor/img7.png)
