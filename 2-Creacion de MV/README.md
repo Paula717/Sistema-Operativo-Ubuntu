@@ -33,6 +33,8 @@ Para eso le daremos en otro y buscaremos nuestro disco externo, una vez encontra
 
 ![maquina](img_Creacion_MV/img15.png)
 
+#  <b>Tamaño de la memoria RAM</b>
+
 <cite style="display:block; text-align: justify">En esta ventana nos pide que le asignemos la cantidad de memoria Ram con la que queremos crear nuestra maquina, para nuestro caso le vamos a asignar 4G (4000 MB).
 
 Debemos tener en cuenta que la cantidad de memoria asignada debe estar dentro de la parte de color verde ya que si nos pasamos a la parte de color rojo puede que nuestra máquina se ponga lenta.
@@ -41,3 +43,5 @@ Una vez asignada la memoria Ram le damos en siguiente.
 </cite>
 
 ![maquina](img_Creacion_MV/img16.png)
+
+#  <b>Disco duro</b>
