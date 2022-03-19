@@ -23,8 +23,8 @@
 
 <cite style="display:block; text-align: justify">En esta ventana nos aparece los siguiente</cite>
 
-<cite style="display:block; text-align: justify"><FONT COLOR="red"><b>* Soporte de USB del VirtualBox:</b> </FONT>El cual va a instalar un controlador USB especial para el VirtualBox, esto nos ayudara para poder conectar USB o algún otro tipo de almacenamiento en nuestra máquina virtual.</cite>
+<cite style="display:block; text-align: justify"><FONT COLOR="red"><b><u>* Soporte de USB del VirtualBox:</b></u> </FONT>El cual va a instalar un controlador USB especial para el VirtualBox, esto nos ayudara para poder conectar USB o algún otro tipo de almacenamiento en nuestra máquina virtual.</cite>
 
-<cite style="display:block; text-align: justify"><FONT COLOR="red"><b>* En redes del VirtualBox:</b> </FONT>Se instalará un controlador de red especial para el VirtualBox, esto nos ayudará para poder acceder a una red cableada o a una red inalámbrica.</cite>
+<cite style="display:block; text-align: justify"><FONT COLOR="red"><b><u>* En redes del VirtualBox:</b></u> </FONT>Se instalará un controlador de red especial para el VirtualBox, esto nos ayudará para poder acceder a una red cableada o a una red inalámbrica.</cite>
 
 ![Instalador](img_Instalacion_Hipervisor/img4.png)
