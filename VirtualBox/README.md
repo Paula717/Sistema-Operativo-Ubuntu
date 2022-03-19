@@ -33,7 +33,17 @@
 
 <cite style="display:block; text-align: justify"><FONT COLOR="red"><b><u>* El soporte de Python:</b></u> </FONT>Este instalara un script para el VirtualBox.</cite>
 
-<cite style="display:block; text-align: justify">Una vez ya tengamos claro las características que vamos a instalar le daremos en siguiente
+<cite style="display:block; text-align: justify">Una vez ya tengamos claro las características que vamos a instalar le daremos en siguiente.
 </cite>
 
 ![Instalador](img_Instalacion_Hipervisor/img4.png)
+
+<cite style="display:block; text-align: justify">Dejamos todo como esta y le damos en Siguiente.
+</cite>
+
+![Instalador](img_Instalacion_Hipervisor/img5.png)
+
+<cite style="display:block; text-align: justify">En esta ventana nos muestra esta advertencia sobre las interfaces de red, lo cual nos dice que la instalación de la función de red de Oracle VirtualBox 6.1.32 va a restablecer su conexión de red y lo desconectara temporalmente de la red, teniendo en cuenta esto le damos en siguiente.
+</cite>
+
+![Instalador](img_Instalacion_Hipervisor/img6.png)
