@@ -133,3 +133,16 @@ También activaremos la aceleración en 3D, la aceleración 3D en una máquina v
 </cite>
 
 ![Almacenamiento DD](img_Creacion_MV/img26.png)
+
+<cite style="display:block; text-align: justify">Le asignaremos un tamaño de 10GB a este disco duro virtual, con el nombre de Grupo_1.
+
+Le damos en crear.
+
+</cite>
+
+![Almacenamiento DD](img_Creacion_MV/img27.png)
+
+<cite style="display:block; text-align: justify">Una vez creado nuestro disco duro lo seleccionamos, ya tendríamos nuestro dos discos listos.
+</cite>
+
+![Almacenamiento DD](img_Creacion_MV/img28.png)
