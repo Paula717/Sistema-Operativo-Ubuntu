@@ -140,9 +140,29 @@ Le damos en crear.
 
 </cite>
 
-![Almacenamiento DD](img_Creacion_MV/img27.png)
+![DD](img_Creacion_MV/img27.png)
 
 <cite style="display:block; text-align: justify">Una vez creado nuestro disco duro lo seleccionamos, ya tendríamos nuestro dos discos listos.
 </cite>
 
-![Almacenamiento DD](img_Creacion_MV/img28.png)
+![DD](img_Creacion_MV/img28.png)
+
+<cite style="display:block; text-align: justify">En la opción que dice <b>Controlador:IDE</b> le daremos clic en la opción que dice añadir unidad óptica.
+</cite>
+
+![Controlador](img_Creacion_MV/img29.png)
+
+<cite style="display:block; text-align: justify">En esta ventana le damos en añadir para buscar la carpeta donde tenemos el archivo en formato ISO del ordenador anfitrión, que actuará como unidad óptica en la máquina virtual.
+</cite>
+
+![ISO DD](img_Creacion_MV/img30.png)
+
+<cite style="display:block; text-align: justify">Seleccionamos el disco ISO que queremos montar en nuestra maquina virtual.
+</cite>
+
+![ISO DD](img_Creacion_MV/img31.png)
+
+<cite style="display:block; text-align: justify">Una vez terminemos con este proceso le daremos en aceptar para confirmar los cambios que hemos realizado.
+</cite>
+
+![ISO DD](img_Creacion_MV/img32.png)
