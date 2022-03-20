@@ -128,3 +128,8 @@ También activaremos la aceleración en 3D, la aceleración 3D en una máquina v
 </cite>
 
 ![Almacenamiento DD](img_Creacion_MV/img25.png)
+
+<cite style="display:block; text-align: justify">En esta ventana le daremos en crear, dejamos seleccionado el tipo de disco VDI, el cual explicamos anteriormente, con almacenamiento reservado dinámicamente.
+</cite>
+
+![Almacenamiento DD](img_Creacion_MV/img26.png)
