@@ -96,3 +96,40 @@ En nuestro caso le asignaremos 25GB, y le daremos en crear.
 </cite>
 
 ![VM](img_Creacion_MV/img21.png)
+
+# <b>Configuraciones</b>
+
+<cite style="display:block; text-align: justify">Una vez tengamos nuestra maquina virtual creada le daremos en configuraciones para realizar unos pequeños cambios y asi mejorar un poco el rendimiento de nuestra maquina.
+</cite>
+
+![configuraciones](img_Creacion_MV/img22.png)
+
+<b>Sistema</b>
+
+<cite style="display:block; text-align: justify">En la opción de sistema lo que haremos sera subir la cantidad de procesadores, teniendo en cuenta que no debemos salirnos de la barra de color verde ya que si lo hacemos nuestra maquina puede ponerce lenta.
+
+En nuestro caso solo nos deja ponerle 2 CPU
+</cite>
+
+![Sistema](img_Creacion_MV/img23.png)
+
+<b>Pantalla</b>
+
+<cite style="display:block; text-align: justify">En la opción de sistema lo que haremos sera subir la cantidad de procesadores, teniendo en cuenta que no debemos salirnos de la barra de color verde ya que si lo hacemos nuestra maquina puede ponerce lenta.
+
+En nuestro caso solo nos deja ponerle 2 CPU
+</cite>
+
+![Sistema](img_Creacion_MV/img23.png)
+
+<b>Almacnamiento</b>
+
+<cite style="display:block; text-align: justify">Una vez tengamos nuestra maquina virtual creada le daremos en configuraciones para asignarle otro disco a nuestro Sistema Operativo
+</cite>
+
+
+
+<cite style="display:block; text-align: justify">Nos ubicamos en la opción de almacenamiento 
+</cite>
+
+![Almacenamiento DD](img_Creacion_MV/img22.png)
