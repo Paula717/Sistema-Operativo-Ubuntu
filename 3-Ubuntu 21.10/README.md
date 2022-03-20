@@ -118,3 +118,40 @@ Una vez terminada la instalación del sistema operativo nos va a pedir que reini
 ![reinicio](img_Ubuntu/img20.png)
 
 ![reinicio](img_Ubuntu/img21.png)
+
+<cite style="display:block; text-align: justify">Inicio del gestor de Ubuntu.</cite>
+
+![reinicio](img_Ubuntu/img22.png)
+
+# <b>Paso 10 - Pasos finales de la Instalación y configuración inicial de Ubuntu 21.10</b>
+
+<cite style="display:block; text-align: justify">Configurar cuentas en líneas del usuario creado, en nuestro caso le daremos omitir.</cite>
+
+![Ubuntu](img_Ubuntu/img23.png)
+
+<cite style="display:block; text-align: justify">Configuración de retroalimentación con Ubuntu 21.10, en nuestro caso seleccionaremos la opción de no enviar información y le daremos en siguiente.</cite>
+
+![Ubuntu](img_Ubuntu/img24.png)
+
+<cite style="display:block; text-align: justify">Configuración de opciones de privacidad del usuario generado.</cite>
+
+![Ubuntu](img_Ubuntu/img25.png)
+
+<cite style="display:block; text-align: justify">Aviso de finalización de instalación y configuración inicial.</cite>
+
+![Ubuntu](img_Ubuntu/img26.png)
+
+# <b>Paso 11 - Resolución de pantalla</b>
+
+<cite style="display:block; text-align: justify">Para cambiar la resolución de nueustra pantalla lo que haremos sera darle clic derecho al escritorio y seleccionamos la opción que dice <b>Preferencias de pantalla</b></cite>
+
+![resolucion](img_Ubuntu/img27.png)
+
+<cite style="display:block; text-align: justify">En esta ventana nos vamos a la parte que dice resolución y escogemos la resolucion que le queremos dar a nuestra pantalla, en nuestro caso vamos a escoger la de 1920 x 1080 y le damos en aplicar.</b></cite>
+
+![resolucion](img_Ubuntu/img28.png)
+
+<cite style="display:block; text-align: justify">De esta manera nuestra pantalla se vera mucho mejor.</b></cite>
+
+![resolucion](img_Ubuntu/img29.png)
+
