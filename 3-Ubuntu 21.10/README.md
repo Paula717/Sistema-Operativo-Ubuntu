@@ -56,3 +56,15 @@ en nuestro caso trabajaremos con la instalación normal y le daremos en continua
 ![configuracion](img_Ubuntu/img7.png)
 
 # <b>Paso 5 - Tipo de instalación</b>
+
+<cite style="display:block; text-align: justify">Configuraciones relacionadas con el disco, particionamiento y sistema de archivos.
+
+Lo dejaremos como esta ya que no tenemos nada en nuestros discos duros asi que no hay de que preocuparnos y le daremos en continuuar.</cite>
+
+![Intslacion](img_Ubuntu/img8.png)
+
+<cite style="display:block; text-align: justify">Como nosotros tenemos dos Discos duros virtuales nos pide que seleccionemos en cual vamos a instalar el Sistema Operativo, en nuestro caso lo instalaremos en el disco de 26.8 GB.
+
+Le damos en continuar.</cite>
+
+![Mapa de caracteres](img_Ubuntu/img9.png)
