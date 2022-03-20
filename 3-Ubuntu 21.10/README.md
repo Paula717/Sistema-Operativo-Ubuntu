@@ -20,16 +20,24 @@ Está compuesto de múltiple software normalmente distribuido bajo una licencia 
 
 ![Ubuntu 21.10](img_Ubuntu/img2.png) 
 
-# <b>Paso 1 </b>
+# <b>Paso 1 - Arranque inicial </b>
 
-<cite style="display:block; text-align: justify">Arranque inicial desde la Máquina Virtual en VirtualBox con la ISO de Ubuntu.</cite>
+<cite style="display:block; text-align: justify">Arranque inicial desde la Máquina Virtual en VirtualBox con la ISO de Ubuntu.
 
-![Paso 1](img_Ubuntu/img3.png) 
+Al principio la pantalla aparecera muy pequeña pero una vez termine la instalación configuraremos la resolución de la pantalla.</cite>
 
-![Paso 1](img_Ubuntu/img4.png) 
+![Arranque inicial](img_Ubuntu/img3.png) 
 
-# <b>Paso 2 </b>
+![Arranque inicial](img_Ubuntu/img4.png) 
 
-<cite style="display:block; text-align: justify">Configuración del Idioma del proceso de Instalación, en nuestro caso lo instalaremos con el idioma Español.</cite>
+# <b>Paso 2 - Idioma </b>
 
-![Paso 1](img_Ubuntu/img5.png) 
+<cite style="display:block; text-align: justify">Configuración del Idioma del proceso de Instalación, en nuestro caso lo instalaremos con el idioma Español y le damos en instalar</cite>
+
+![Idioma](img_Ubuntu/img5.png)
+
+# <b>Paso 3 - Mapa de caracteres</b>
+
+<cite style="display:block; text-align: justify">Configuración del Mapa de caracteres (Idioma) del Teclado, en nuestro caso seleccionaremos Español latinoamericano y le daremos en continuar.</cite>
+
+![Mapa de caracteres](img_Ubuntu/img6.png)
