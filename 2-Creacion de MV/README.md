@@ -166,3 +166,8 @@ Le damos en crear.
 </cite>
 
 ![ISO DD](img_Creacion_MV/img32.png)
+
+<cite style="display:block; text-align: justify">Asi quedaria nuestra maquina virtual.
+</cite>
+
+![ISO DD](img_Creacion_MV/img33.png)
