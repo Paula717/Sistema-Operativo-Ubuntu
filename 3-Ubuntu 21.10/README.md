@@ -111,6 +111,10 @@ Una vez configurado eso, le daremos en continuar.</cite>
 
 # <b>Paso 9 - Reinicio</b>
 
-<cite style="display:block; text-align: justify">Primer reinicio del Sistema Operativo instalado.</cite>
+<cite style="display:block; text-align: justify">Primer reinicio del Sistema Operativo instalado.
 
-![reinicio](img_Ubuntu/img17.png)
+Una vez terminada la instalación del sistema operativo nos va a pedir que reiniciemos el sistema.</cite>
+
+![reinicio](img_Ubuntu/img20.png)
+
+![reinicio](img_Ubuntu/img21.png)
