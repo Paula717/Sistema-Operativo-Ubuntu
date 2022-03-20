@@ -11,3 +11,5 @@ Está compuesto de múltiple software normalmente distribuido bajo una licencia 
 [1_1]:https://es.wikipedia.org/wiki/Distribución_Linux
 
 [1_2]:https://es.wikipedia.org/wiki/Debian_GNU/Linux
+
+![Ubuntu 21.10](img_Ubuntu/img1.png) 
