@@ -70,3 +70,47 @@ Le damos en instalar ahora.</cite>
 ![Intslacion](img_Ubuntu/img9.png)
 
 ![Intslacion](img_Ubuntu/img10.png)
+
+# <b>Paso 6 - ¿Donde se Encuentra?</b>
+
+<cite style="display:block; text-align: justify">Configuraciones relacionadas con la región geográfica de la instalación, con esta configuracion arreglamos la fecha y la hora de nuestro sistema operativo.</cite>
+
+![Region](img_Ubuntu/img11.png)
+
+# <b>Paso 7 - Configuración de usuario</b>
+
+<cite style="display:block; text-align: justify">Configuraciones relacionadas con los usuarios del Sistema Operativo.
+
+Llenamos los datos que nos solicita, elejimos una contraseña y en nuestro caso seleccionaremos la opción de iniciar sesión automáticamente.
+
+Una vez configurado eso, le daremos en continuar.</cite>
+
+![Region](img_Ubuntu/img12.png)
+
+# <b>Paso 8 - Inicio del proceso de instalación de Ubuntu</b>
+
+<cite style="display:block; text-align: justify">Copiado de archivos de la ISO al disco duro.</cite>
+
+![Ubuntu](img_Ubuntu/img13.png)
+
+![Ubuntu](img_Ubuntu/img14.png)
+
+<cite style="display:block; text-align: justify">Procesamiento de los archivos copiados al disco duro.</cite>
+
+![Ubuntu](img_Ubuntu/img15.png)
+
+![Ubuntu](img_Ubuntu/img16.png)
+
+<cite style="display:block; text-align: justify">Procesos y configuraciones varias para finalizar la configuración inicial de la Distribución instalada.</cite>
+
+![Ubuntu](img_Ubuntu/img17.png)
+
+![Ubuntu](img_Ubuntu/img18.png)
+
+![Ubuntu](img_Ubuntu/img19.png)
+
+# <b>Paso 9 - Reinicio</b>
+
+<cite style="display:block; text-align: justify">Primer reinicio del Sistema Operativo instalado.</cite>
+
+![reinicio](img_Ubuntu/img17.png)
