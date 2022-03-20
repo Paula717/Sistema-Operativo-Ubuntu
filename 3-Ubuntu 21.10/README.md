@@ -41,3 +41,18 @@ Al principio la pantalla aparecera muy pequeña pero una vez termine la instalac
 <cite style="display:block; text-align: justify">Configuración del Mapa de caracteres (Idioma) del Teclado, en nuestro caso seleccionaremos Español latinoamericano y le daremos en continuar.</cite>
 
 ![Mapa de caracteres](img_Ubuntu/img6.png)
+
+# <b>Paso 4 - Actualizaciones y otro Software</b>
+
+<cite style="display:block; text-align: justify">En esta ventana nos muestra dos opciones las cuelas son:
+
+* <b>Instalación Normal: </b> La cual incluye una colección de paquetes y programas seleccionados por Canonical para ofrecer la mejor experiencia posible a los usuarios.
+
+* <b>Instalación Minima: </b>Este nuevo modo nos permitirá instalar en nuestro sistema una versión minimalista de Ubuntu, instalando exclusivamente los paquetes que se consideran esenciales para la distro, como el escritorio, un navegador web (Firefox) y poco más. De esta manera, en vez de llenar nuestro disco de aplicaciones innecesarias, podremos partir de una versión limpia la cual podemos ir personalizando a medida que la vayamos utilizando.
+
+en nuestro caso trabajaremos con la instalación normal y le daremos en continuar.
+</cite>
+
+![configuracion](img_Ubuntu/img7.png)
+
+# <b>Paso 5 - Tipo de instalación</b>
