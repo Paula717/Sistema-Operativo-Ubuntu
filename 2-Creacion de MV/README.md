@@ -115,21 +115,16 @@ En nuestro caso solo nos deja ponerle 2 CPU
 
 <b>Pantalla</b>
 
-<cite style="display:block; text-align: justify">En la opción de sistema lo que haremos sera subir la cantidad de procesadores, teniendo en cuenta que no debemos salirnos de la barra de color verde ya que si lo hacemos nuestra maquina puede ponerce lenta.
+<cite style="display:block; text-align: justify">En la opción de Pantalla, en la parte que dice memoria de video, lo subiremos al máximo ya que esto ayudara para que nuestra maquina sea un poco más rápida.
 
-En nuestro caso solo nos deja ponerle 2 CPU
+También activaremos la aceleración en 3D, la aceleración 3D en una máquina virtual le da a esa máquina virtual una GPU virtual, mediante el uso de la CPU del host o, si está disponible, la GPU de hardware. Dado que puede tener muchas máquinas virtuales disponibles en cualquier host, esto le permite elegir qué máquinas virtuales tienen acceso a esta tecnología, para que el host no se atasque.
 </cite>
 
-![Sistema](img_Creacion_MV/img23.png)
+![Pantalla](img_Creacion_MV/img24.png)
 
 <b>Almacnamiento</b>
 
-<cite style="display:block; text-align: justify">Una vez tengamos nuestra maquina virtual creada le daremos en configuraciones para asignarle otro disco a nuestro Sistema Operativo
+<cite style="display:block; text-align: justify">En la opción de Almacenamiento, lo que vamos hacer es añadir otro disco duro.
 </cite>
 
-
-
-<cite style="display:block; text-align: justify">Nos ubicamos en la opción de almacenamiento 
-</cite>
-
-![Almacenamiento DD](img_Creacion_MV/img22.png)
+![Almacenamiento DD](img_Creacion_MV/img25.png)
