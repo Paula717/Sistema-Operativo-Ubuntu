@@ -13,3 +13,21 @@ Está compuesto de múltiple software normalmente distribuido bajo una licencia 
 [1_2]:https://es.wikipedia.org/wiki/Debian_GNU/Linux
 
 ![Ubuntu 21.10](img_Ubuntu/img1.png) 
+
+# <b>Procedimiento de instalación de Ubuntu 21.10</b>
+
+<cite style="display:block; text-align: justify">Una vez terminemos con la creación y configuración de nuestra maquina virtual, lo que prosigue es iniciar la Maquina virtual y terminar con la istalación.</cite>
+
+![Ubuntu 21.10](img_Ubuntu/img2.png) 
+
+* Paso 1
+<cite style="display:block; text-align: justify">Arranque inicial desde la Máquina Virtual en VirtualBox con la ISO de Ubuntu.</cite>
+
+![Paso 1](img_Ubuntu/img3.png) 
+
+![Paso 1](img_Ubuntu/img4.png) 
+
+* Paso 2
+<cite style="display:block; text-align: justify">Configuración del Idioma del proceso de Instalación, en nuestro caso lo instalaremos con el idioma Español.</cite>
+
+![Paso 1](img_Ubuntu/img5.png) 
