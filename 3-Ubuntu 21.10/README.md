@@ -65,6 +65,8 @@ Lo dejaremos como esta ya que no tenemos nada en nuestros discos duros asi que n
 
 <cite style="display:block; text-align: justify">Como nosotros tenemos dos Discos duros virtuales nos pide que seleccionemos en cual vamos a instalar el Sistema Operativo, en nuestro caso lo instalaremos en el disco de 26.8 GB.
 
-Le damos en continuar.</cite>
+Le damos en instalar ahora.</cite>
 
-![Mapa de caracteres](img_Ubuntu/img9.png)
+![Intslacion](img_Ubuntu/img9.png)
+
+![Intslacion](img_Ubuntu/img10.png)
