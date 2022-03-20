@@ -20,7 +20,7 @@ Está compuesto de múltiple software normalmente distribuido bajo una licencia 
 
 ![Ubuntu 21.10](img_Ubuntu/img2.png) 
 
-* Paso 1
+# <b>Paso 1 </b>
 
 <cite style="display:block; text-align: justify">Arranque inicial desde la Máquina Virtual en VirtualBox con la ISO de Ubuntu.</cite>
 
@@ -28,7 +28,7 @@ Está compuesto de múltiple software normalmente distribuido bajo una licencia 
 
 ![Paso 1](img_Ubuntu/img4.png) 
 
-* Paso 2
+# <b>Paso 2 </b>
 
 <cite style="display:block; text-align: justify">Configuración del Idioma del proceso de Instalación, en nuestro caso lo instalaremos con el idioma Español.</cite>
 
