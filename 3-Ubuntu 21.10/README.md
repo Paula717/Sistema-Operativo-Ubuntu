@@ -155,3 +155,6 @@ Una vez terminada la instalación del sistema operativo nos va a pedir que reini
 
 ![resolucion](img_Ubuntu/img29.png)
 
+# <b>Cómo habilitar root en Ubuntu</b>
+
+<cite style="display:block; text-align: justify">Lo primero que haremos sera abrir una terminar en nuestro sistema operativo.</b></cite>
