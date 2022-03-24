@@ -131,15 +131,62 @@ Le damos en aceptar y se nos creara nuestra primera partición.
 
 ![Intslacion](img_Ubuntu/img8-4.png)
 
+<cite style="display:block; text-align: justify">Aqui ya podemos ver que nuestra primera particion se ha creado correctamente.
+</cite>
 
+![Intslacion](img_Ubuntu/img8-5.png)
 
-<cite style="display:block; text-align: justify">Como nosotros tenemos dos Discos duros virtuales nos pide que seleccionemos en cual vamos a instalar el Sistema Operativo, en nuestro caso lo instalaremos en el disco de 26.8 GB.
+<cite style="display:block; text-align: justify">La segunda partición que crearemos sera la del Root con el espacio que nos queda disponible en el disco, en nuestro caso nos queda 18MB, seleccionamos el espacio libre y realizaremos el mismo proceso anterior.
+</cite>
 
-Le damos en instalar ahora.</cite>
+![Intslacion](img_Ubuntu/img8-6.png)
+
+<cite style="display:block; text-align: justify">
+
+* Le daremos un tamaño de 10 GB (10000 MB).
+
+* Tipo de memoria primaria ya que esta será la memoria extra.
+
+* Ubicación de la partición al principio de este espacio.
+
+* Utilizar como ext4, el cual ya explicamos anteriormente.
+
+* Punto de montaje (/).
+
+Le daremos en aceptar y así se creara nuestra segunda partición.
+
+</cite>
+
+![Intslacion](img_Ubuntu/img8-7.png)
+
+<cite style="display:block; text-align: justify">Asi nos quedarian nuestra dos particiones creadas en el disco <b>/dev/sda</b>
+</cite>
 
 ![Intslacion](img_Ubuntu/img9.png)
 
+<cite style="display:block; text-align: justify">Acontinuación vamos a crear una nueva tabla de particiones pero esta vez en el disco <b>/dev/sdb</b>, ya que en este disco vamos a crear el /Home.
+
+Repetimos los pasos anteriores para crear la nueva tabla de particiones y una particion nueva.
+
+* Vamos a asignarle todo el espacio que tengamos disponible, en nuestro caso son 10GB.
+
+* El tipo de la partición la dejaremos en lógico, ya que esta funciona como si fuera un dispositivo independiente, y puede ser utilizada para almacenar cualquier archivo.
+
+* La utilizaremos como ext4.
+
+* El punto de montaje será /Home
+
+Le daremos aceptar y ya estará nuestra partición creada.
+
+</cite>
+
 ![Intslacion](img_Ubuntu/img10.png)
+
+<cite style="display:block; text-align: justify">Una vez configuradas nuestras particiones podemos elegir en donde queremos instalar nuestra ISO, ya que anteriormente habiamos creado dos discos uno de 26GB y el otro de 10GB, vamos a escoger el de 26GB para instalar nuestro Sistema Operativo.
+
+Lo seleccionamos y le damos en instalar ahora.</cite>
+
+![Region](img_Ubuntu/img10-1.png)
 
 # <b>Paso 6 - ¿Donde se Encuentra?</b>
 
