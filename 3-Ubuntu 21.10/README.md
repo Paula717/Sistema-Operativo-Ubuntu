@@ -12,6 +12,8 @@ Está compuesto de múltiple software normalmente distribuido bajo una licencia 
 
 [1_2]:https://es.wikipedia.org/wiki/Debian_GNU/Linux
 
+[1_3]:https://sites.google.com/site/alternativalinux/particiones-en-linux
+
 ![Ubuntu 21.10](img_Ubuntu/img1.png) 
 
 # <b>Procedimiento de instalación de Ubuntu 21.10</b>
@@ -57,13 +59,79 @@ en nuestro caso trabajaremos con la instalación normal y le daremos en continua
 
 # <b>Paso 5 - Tipo de instalación</b>
 
-<cite style="display:block; text-align: justify">Configuraciones relacionadas con el disco, particionamiento y sistema de archivos.
+<b>[Tipos de particiones y sistemas de archivos][1_3]</b>
+
+<cite style="display:block; text-align: justify">Particionar un disco duro es realizar una división en él de modo que, a efectos prácticos, el sistema operativo crea que tienes varios discos duros, cuando en realidad sólo hay un único disco físico dividido en varias partes. De este modo, se pueden modificar o borrar particiones sin afectar a los demás datos del disco.
+
+Las particiones básicas se llaman <b>primarias</b> y puede haber a lo sumo 4. Esto puede ser suficiente para nuestros intereses. Como a veces no es así, se crearon las particiones extendidas que pueden albergar otras particiones dentro, llamadas <b>lógicas.</b>
+
+Los sistemas de archivos indican el modo en que se gestionan los archivos dentro de las particiones. Según su complejidad tienen características como previsión de apagones, posibilidad de recuperar datos, indexación para búsquedas rápidas, reducción de la fragmentación para agilizar la lectura de los datos, etc. Hay varios tipos, normalmente ligados a sistemas operativos concretos. 
+
+A continuación se listan los más representativos:
+
+* <b> fat32 o vfat:</b> Es el sistema de archivos tradicional de MS-DOS y las primeras versiones de Windows. Por esta razón, es considerado como un sistema universal, aunque padece de una gran fragmentación y es un poco inestable.
+
+* <b> ntfs:</b> Es el nuevo sistema de Windows, usado a partir del 2000 y el XP. Es muy estable. El problema es que es privativo, con lo cual otros sistemas operativos no pueden acceder a él de manera transparente. Desde Linux sólo se recomienda la lectura, siendo la escritura en estas particiones un poco arriesgada.
+
+* <b> ext2:</b> Hasta hace poco era el sistema estándar de Linux. Tiene una fragmentación bajísima, aunque es un poco lento manejando archivos de gran tamaño.
+
+* <b> ext3:</b> Es la versión mejorada de ext2, con previsión de pérdida de datos por fallos del disco o apagones. En contraprestación, es totalmente imposible recuperar datos borrados. Es compatible con el sistema de archivos ext2. Actualmente es el más difundido dentro de la comunidad GNU/Linux y considerado el estándar de facto.
+
+* <b> ext4:</b> Es un sistema de archivos con registro por diario (en inglés Journaling), anunciado el 10 de octubre de 2006, como una mejora compatible de ext3. La principal novedad en Ext4 es Extent, o la capacidad de reservar un área contigua para un archivo; esto puede reducir y hasta eliminar completamente la fragmentación de archivos. Es el sistema de archivos por defecto desde Ubuntu Jaunty.
+
+* <b> ReiserFS:</b> Es el sistema de archivos de última generación para Linux. Organiza los archivos de tal modo que se agilizan mucho las operaciones con éstos. El problema de ser tan actual es que muchas herramientas (por ejemplo, para recuperar datos) no lo soportan.
+
+* <b> swap:</b> Es el sistema de archivos para la partición de intercambio de Linux. Todos los sistemas Linux necesitan una partición de este tipo para cargar los programas y no saturar la memoria RAM cuando se excede su capacidad. En Windows, esto se hace con el archivo pagefile.sys en la misma partición de trabajo, con los problemas que conlleva.
+</cite>
+
+<b>Tamaño de las particiones</b>
+
+<cite style="display:block; text-align: justify">Tenemos un disco duro con mucho espacio pero no sabemos cómo administrarlo. Puesto que a cada partición se le va a dar un uso diferente, cada una tendrá un tamaño diferente.
+
+* Para empezar, necesitamos la partición para la memoria de intercambio, que será de tipo <b>swap.</b> Es una costumbre extendida que ésta sea del doble de tamaño que la memoria RAM disponible.
+
+* La partición donde instalaremos Ubuntu <b>(/)</b> debe tener al menos 2 GB. Si pretendemos instalar más programas es recomendable darle un poco más de espacio. Para un uso normal, unos 7 u 8 GB estarán bien.
+
+* Finalmente, es recomendable guardar los archivos personales (documentos, imágenes, películas, etc.) en una partición aparte. Así, si en algún momento quiere reinstalar Ubuntu desde cero, podrá formatear sin miedo y sin perder la configuración de sus programas. Esta partición suele montarse en <b>/home.</b> Su tamaño depende principalmente de cuántos usuarios usen el sistema y del volumen de datos que almacenen.
+</cite>
+
+
+<cite style="display:block; text-align: justify">Teniendo en cuenta lo explicado anteriormente, vamos a proseguir con nuestra instalación.
 
 Le quitaremos la opcion Borrar disco por que no tenemos nada instalado, y le daremos en mas opciones ya que en esta parte podremos configurar y crear las particiones.
 
-Le damos en continuar </cite>
+Le damos en continuar. </cite>
 
 ![Intslacion](img_Ubuntu/img8.png)
+
+<cite style="display:block; text-align: justify">Nos ubicaremos en el disco en el cual queremos crear una nueva tabla de particiones para realizar las configuraciones correspondientes, en este caso vamos a añadir en nuestro disco principal la memoria de intercambio y el root.</cite>
+
+![Intslacion](img_Ubuntu/img8-1.png)
+
+<cite style="display:block; text-align: justify">Nos aparecera esta ventana donde nos pregunta si deseamos crear una nueva tabla de particiones en la cual le daremos continuar.</cite>
+
+![Intslacion](img_Ubuntu/img8-2.png)
+
+<cite style="display:block; text-align: justify">Nos muestra el espacio libre que tenemos para asignar nuestras particiones, en nuestro caso tenemos 26843 MB de espacio libre.
+
+Le daremos en el signos "+" para agregar una nueva particion.</cite>
+
+![Intslacion](img_Ubuntu/img8-3.png)
+
+<cite style="display:block; text-align: justify">
+
+* En nuestra primera partición le daremos un tamaño de 8000 MB, ya que esta será para la memoria de intercambio.
+
+* La dejamos en nueva partición primaria, ya que este no se podrá borrar.
+
+* En utilizar como lo dejaremos en área de intercambio, esto nos permitirá guardar los archivos de intercambio.
+
+Le damos en aceptar y se nos creara nuestra primera partición.
+</cite>
+
+![Intslacion](img_Ubuntu/img8-4.png)
+
+
 
 <cite style="display:block; text-align: justify">Como nosotros tenemos dos Discos duros virtuales nos pide que seleccionemos en cual vamos a instalar el Sistema Operativo, en nuestro caso lo instalaremos en el disco de 26.8 GB.
 
