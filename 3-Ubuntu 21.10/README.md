@@ -59,7 +59,9 @@ en nuestro caso trabajaremos con la instalación normal y le daremos en continua
 
 <cite style="display:block; text-align: justify">Configuraciones relacionadas con el disco, particionamiento y sistema de archivos.
 
-Lo dejaremos como esta ya que no tenemos nada en nuestros discos duros asi que no hay de que preocuparnos y le daremos en continuuar.</cite>
+Le quitaremos la opcion Borrar disco por que no tenemos nada instalado, y le daremos en mas opciones ya que en esta parte podremos configurar y crear las particiones.
+
+Le damos en continuar </cite>
 
 ![Intslacion](img_Ubuntu/img8.png)
 
