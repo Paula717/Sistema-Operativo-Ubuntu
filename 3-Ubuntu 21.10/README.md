@@ -188,6 +188,10 @@ Lo seleccionamos y le damos en instalar ahora.</cite>
 
 ![Region](img_Ubuntu/img10-1.png)
 
+<cite style="display:block; text-align: justify">En esta ventana le daremos continuar.</cite>
+
+![Region](img_Ubuntu/img10-2.png)
+
 # <b>Paso 6 - ¿Donde se Encuentra?</b>
 
 <cite style="display:block; text-align: justify">Configuraciones relacionadas con la región geográfica de la instalación, con esta configuracion arreglamos la fecha y la hora de nuestro sistema operativo.</cite>
