@@ -155,6 +155,29 @@ Una vez terminada la instalación del sistema operativo nos va a pedir que reini
 
 ![resolucion](img_Ubuntu/img29.png)
 
-# <b>Cómo habilitar root en Ubuntu</b>
 
-<cite style="display:block; text-align: justify">Lo primero que haremos sera abrir una terminar en nuestro sistema operativo.</b></cite>
+<cite style="display:block; text-align: justify">Cuando queremos hacer algunas tareas específicas en Ubuntu es necesario contar con permisos de «root». Lo normal es que al momento de realizar la instalación de Ubuntu en nuestro disco, este haya creado una cuenta de usuario “normal”, y que nos haya pedido que asignemos una contraseña.
+
+
+Tengamos en cuenta que nuestro usuario, es decir la que vamos a usar, es una cuenta de administrador pero no es lo mismo que root.
+</cite>
+
+# <b>Qué es el usuario root en Ubuntu</b>
+
+<cite style="display:block; text-align: justify">Es un tipo de perfil de usuario que cuenta con todos los permisos, y ninguna restricción, para realizar cualquier modificación o cambio en el sistema. 
+
+No tenemos que confundir el usuario root con el uso del comando «sudo», que solemos hacer desde nuestra cuenta principal.
+
+Tener instalado y usar el comando «sudo» en un ordenador personal es asunto de gusto personal, pero por razones de seguridad no es buena idea tener instalado ese comando en un servidor online. «sudo» abre una brecha en la seguridad de un servidor.
+
+Para ver si tenemos activo el usuario root, lo normal es que no, vamos a abrir una ventana de la terminal.
+
+En ella vamos a escribir lo siguiente: "sudo su"
+
+Si está activada la cuenta de root, entonces aparecerá en el prompt el carácter: #.
+
+Pero si nuestro usuario root está desactivado, vamos a recibir mensajes similares a los que vemos en la imagen siguiente:
+
+</cite>
+
+![Habilitar](img_Ubuntu/img30.png)
