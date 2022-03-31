@@ -54,10 +54,17 @@ Cada seis meses se publica una nueva versión de Ubuntu. Esta recibe soporte por
 
 # Ventajas de Ubuntu
 
-<cite style="display:block; text-align: justify">listado de requisitos de instalación:
+<cite style="display:block; text-align: justify">
 
-* Espacio en disco: 2.5 GB
-* Memoria RAM: 512 MB (aunque es recomendable 1GB como mínimo)
-* Procesador: 1 GHz o superior
-* Resolución:  9″ con resolución HD (720p) o superior
-* Duración de la instalación: 15 minutos aprox.</cite>
+1. <b><u>Es libre y gratuito:</u></b> Cuando hablamos de qué es Ubuntu, y cuáles son sus ventajas y desventajas es importante recordar que no tiene ningún costo, tanto su instalación como sus actualizaciones son completamente gratis y, en cualquiera de sus versiones, no necesita licencia.
+
+
+1. <b><u>Es seguro y confiable:</u></b> Comparado con otros sistemas operativos, una de las mayores ventajas de Ubuntu es la seguridad. Una de las características de Linux y sus sistemas en general es que son menos proclives a recibir ataques de parte de los hackers. Además, en la comparación de ventajas y desventajas de Ubuntu encontramos que es un sistema operativo estable que recibe actualizaciones de seguridad automáticas de manera frecuente, lo que implica que no es necesario instalar un antivirus para su protección.
+
+1. <b><u>Es veloz y consume menos recursos:</u></b> Este sistema operativo tiene muchas virtudes y una de ellas es que es liviano y fácil de usar. Una vez instalado, el programa no es para nada pesado y funciona rápido, aprovechando los recursos de manera inteligente y administrando las tareas de forma eficaz.
+Además, dentro de las ventajas y desventajas del sistema operativo Ubuntu, la ventaja principal es que la interfaz de Ubuntu es tan rápida que a tu computadora sólo le llevará menos de nueve segundos apagarse, además del rápido funcionamiento en todos sus programas y en la velocidad del cursor.
+
+1. <b><u>Es personalizable:</u></b> Para muchas personas que disfrutan de darle su toque personal a su espacio de trabajo, una de las principales ventajas de usar Ubuntu es que se trata de un sistema operativo completamente personalizable. 
+Gracias a su funcionalidad de código abierto y con un poco de conocimientos de programación, puedes modificar las herramientas que ofrece este sistema, así como crear nuevas aplicaciones y retocar la interfaz que tiene por defecto. Además, si hablamos de diseño, podrás modificar todos y cada uno de los íconos del inicio ¡y darle tu toque personal!
+
+</cite>
