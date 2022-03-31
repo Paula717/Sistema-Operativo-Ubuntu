@@ -39,3 +39,25 @@ Además, al mantenerlo libre y gratuito, la empresa es capaz de aprovechar los d
 Canonical, además de mantener Ubuntu, provee una versión orientada a servidores, Ubuntu Server, una versión para empresas, Ubuntu Business Desktop Remix, una para televisores, Ubuntu TV, otra versión para tabletas Ubuntu Tablet,también Ubuntu Phone y una para usar el escritorio desde teléfonos inteligentes, Ubuntu for Android.
 
 Cada seis meses se publica una nueva versión de Ubuntu. Esta recibe soporte por parte de Canonical durante nueve meses por medio de actualizaciones de seguridad, parches para bugs críticos y actualizaciones menores de programas. Las versiones LTS (Long Term Support), que se liberan cada dos años,reciben soporte durante cinco años en los sistemas de escritorio y de servidor.</cite>
+
+![Canonical](img/img02.png)
+
+# Requisitos de instalación de Ubuntu
+
+<cite style="display:block; text-align: justify">listado de requisitos de instalación:
+
+* Espacio en disco: 2.5 GB
+* Memoria RAM: 512 MB (aunque es recomendable 1GB como mínimo)
+* Procesador: 1 GHz o superior
+* Resolución:  9″ con resolución HD (720p) o superior
+* Duración de la instalación: 15 minutos aprox.</cite>
+
+# Ventajas de Ubuntu
+
+<cite style="display:block; text-align: justify">listado de requisitos de instalación:
+
+* Espacio en disco: 2.5 GB
+* Memoria RAM: 512 MB (aunque es recomendable 1GB como mínimo)
+* Procesador: 1 GHz o superior
+* Resolución:  9″ con resolución HD (720p) o superior
+* Duración de la instalación: 15 minutos aprox.</cite>
