@@ -1,13 +1,17 @@
 ![Principal](img/img01.png)
 # Realizado Por
-1. Paula Andrea Cuellar Moreno
-1. Juan Camilo Cruz
+1. [Paula Andrea Cuellar Moreno][00]
+1. [Juan Camilo Cruz][01]
 
 ## Agenda
 1. [VirtualBox][11]
 1. [Creación de MV][21]
 1. [Ubuntu 21.10][31]
 1. [Comandos Linux][41]
+
+[00]:https://github.com/Paula717
+
+[01]:https://github.com/JuanC717
 
 [11]:https://github.com/Paula717/Sistema-Operativo-Ubuntu/tree/main/1-VirtualBox
 
