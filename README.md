@@ -186,9 +186,13 @@ Hay encantos tanto para las operaciones en la nube basadas en máquinas virtuale
 
 # Modelo de lanzamiento ubuntu 21.10 - Impish Indri
 
-<cite style="display:block; text-align: justify">En el mundo de la nube, es útil compartir el código de operaciones de software tanto como lo es compartir el código de las propias aplicaciones. En lugar de tener muchas organizaciones diferentes codificando operaciones por separado, Ubuntu permite la colaboración de operaciones basadas en la comunidad con un paquete estándar de "encanto" para operaciones.
+<cite style="display:block; text-align: justify">Ubuntu es la distro Linux más conocida y utilizada que podemos encontrar. Esto se debe a que es una de las más accesibles, siendo una perfecta puerta de entrada para nuevos usuarios y cuenta con una enorme comunidad dispuesta a ayudar. Además, al estar basada en Debian, cuenta con una excelente base sobre la que funcionar.</cite>
 
-Los accesos manejan el ciclo de vida de la aplicación: implementación, integración y configuración, actualizaciones y desmontaje.
+![Interfaz](img/img05.png)
 
-Hay encantos tanto para las operaciones en la nube basadas en máquinas virtuales como para las operaciones en la nube basadas en Kubernetes. Los accesos pueden usar una variedad de sistemas operativos, pero la mayoría de los accesos están basados ​​en Ubuntu, por lo que se benefician de la seguridad estándar y la familiaridad del resto de Ubuntu.</cite>
+<cite style="display:block; text-align: justify">La primera de las novedades que encontraremos en este nuevo Linux es su nombre. Como, siguiendo el abecedario, a este nuevo sistema le tocaba la letra «i», y siempre se suelen usar animales en el nombre, la compañía ha decidido darle el nombre de «Impish Indri«.
+
+La primera novedad que nos encontraremos en este nuevo sistema operativo es que, ahora mismo, está usando el Kernel Linux 5.14. De todas formas, el núcleo de este Linux podría cambiar por una versión más reciente en función de cómo avance el desarrollo de este.
+
+Otra de las novedades más importantes que encontraremos es que, por fin, Canonical ha actualizado el escritorio a GNOME 40 (concretamente traerá 40.3), aunque con un «pero». GNOME 40 se caracterizaba por tener un dock horizontal centrado al estilo macOS o Windows 11, sin embargo, en Ubuntu no vamos a tenerlo así. Canonical ha decidido colocar este dock en vertical en su distro para mantener la estética del sistema lo más fiel a la original posible.</cite>
 
