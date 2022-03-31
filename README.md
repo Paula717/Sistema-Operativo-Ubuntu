@@ -144,3 +144,43 @@ Tenemos nuevos gestos para el touchpad y nuevas acciones para el ratón. Ahora l
 
 ![Interfaz](img/img04.png)
 
+[1_7]:https://ubuntu.com/about/packages
+
+[1_8]:https://wiki.ubuntu.com/AppArmor?_ga=2.1583737.992084208.1648746099-887765086.1648746099
+
+# [Paquetes de Ubuntu 21.10][1_7]
+
+<cite style="display:block; text-align: justify">El software para Ubuntu se entrega utilizando una gama de tecnologías de empaquetado, cada una de las cuales es óptima para escenarios específicos.</cite>
+
+# 1. Los paquetes 'Deb' son el corazón de Ubuntu 
+
+<cite style="display:block; text-align: justify">El formato de paquete 'deb' proviene de la distribución Debian Linux y es ampliamente considerado el mejor formato de paquete para bibliotecas y aplicaciones de nivel de sistema con dependencias ricas y dinámicas. Usamos paquetes .deb para crear el sistema operativo base Ubuntu e incluimos decenas de miles de debs para una amplia gama de aplicaciones de código abierto.
+
+Los paquetes deb se instalan sin confinamiento, lo que significa que un paquete deb tiene control total de su sistema cuando se instala, y solo debe instalar paquetes deb en los que confíe completamente en la seguridad de su sistema. Tenga mucho cuidado cuando se le pida que agregue paquetes deb de terceros manualmente, o archivos adicionales o repositorios de paquetes deb, porque tendrán un control efectivo de su máquina. Le recomendamos que rechace la instalación de debs de terceros a menos que tenga razones muy específicas para hacerlo.
+
+El software empaquetado de Deb puede incluir perfiles de [AppArmor][1_8] que limitan su alcance, lo que es beneficioso para la seguridad general del sistema, pero no restringe ni limita los scripts que manejan la instalación y las actualizaciones o la eliminación de paquetes. Debs no se puede usar en Ubuntu Core orientado a dispositivos.
+
+Los paquetes estándar de Ubuntu se basan en una infraestructura confiable de código abierto. Si bien no se puede garantizar que sean seguros, la procedencia del código y el sistema de compilación garantizan que se puedan auditar y se sepa que funcionan de una manera particular.
+
+Las actualizaciones de debs no se gestionan; una actualización problemática puede dejar archivos en su disco que causen problemas más adelante. Cuando se desempaquetan los deb en su sistema, ya no es posible validarlos de manera precisa y eficiente, lo que significa que los compromisos y las intrusiones en un sistema basado en deb son más difíciles de identificar.</cite>
+
+# 2. Los paquetes 'Snap' tienen mejor seguridad y actualizaciones 
+
+<cite style="display:block; text-align: justify">Se prefieren los paquetes 'snap' más nuevos para componentes independientes, especialmente aplicaciones. Pueden estar rigurosamente confinados , lo que significa que cada etapa de la instalación y operación de la aplicación puede mantenerse segura. Un complemento 'estrictamente' confinado tiene un conjunto muy específico de funciones que puede usar, lo que requiere una supervisión adecuada por parte de Canonical, y si ese software se ve comprometido, esas medidas de seguridad deberían limitar el impacto de la vulnerabilidad.
+
+También hay instantáneas 'clásicas', que no están confinadas y que, por lo tanto, son equivalentes a debs de terceros. Recomendamos encarecidamente que establezca la buena fe de cualquier editor de complementos clásico de terceros. Las instantáneas clásicas importantes o ampliamente utilizadas deben tener editores "verificados" en la tienda.
+
+Es menos probable que las instantáneas tengan problemas con las dependencias a lo largo de su vida porque agrupan estas dependencias o usan dependencias estándar proporcionadas por el sistema de una manera estandarizada. Sin embargo, depende del editor del complemento asegurarse de que los problemas de dependencias se resuelvan con las versiones más recientes del complemento, ya que el proveedor original del software crea y publica los complementos directamente. Eso también significa que las arquitecturas admitidas por un complemento están determinadas por el proveedor, no por Canonical, y la seguridad del sistema de compilación a menudo también depende del proveedor. Algunas instantáneas se basan en una infraestructura confiable para todas las arquitecturas. Puede pedirle a su proveedor que siga ese enfoque para las instantáneas donde esto sea importante para usted.
+
+El mecanismo de actualización para instantáneas es altamente confiable, con copias de seguridad automáticas de datos relevantes y la capacidad de revertir a la versión anterior de la actualización falla.
+
+Las instantáneas siempre se almacenan en un formato que admite la validación de firmas, lo que significa que las intrusiones son más fáciles de detectar.</cite>
+
+# 3. Los charms son paquetes para operaciones de software en la nube
+
+<cite style="display:block; text-align: justify">En el mundo de la nube, es útil compartir el código de operaciones de software tanto como lo es compartir el código de las propias aplicaciones. En lugar de tener muchas organizaciones diferentes codificando operaciones por separado, Ubuntu permite la colaboración de operaciones basadas en la comunidad con un paquete estándar de "encanto" para operaciones.
+
+Los accesos manejan el ciclo de vida de la aplicación: implementación, integración y configuración, actualizaciones y desmontaje.
+
+Hay encantos tanto para las operaciones en la nube basadas en máquinas virtuales como para las operaciones en la nube basadas en Kubernetes. Los accesos pueden usar una variedad de sistemas operativos, pero la mayoría de los accesos están basados ​​en Ubuntu, por lo que se benefician de la seguridad estándar y la familiaridad del resto de Ubuntu.</cite>
+
