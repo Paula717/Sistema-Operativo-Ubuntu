@@ -196,3 +196,16 @@ La primera novedad que nos encontraremos en este nuevo sistema operativo es que,
 
 Otra de las novedades más importantes que encontraremos es que, por fin, Canonical ha actualizado el escritorio a GNOME 40 (concretamente traerá 40.3), aunque con un «pero». GNOME 40 se caracterizaba por tener un dock horizontal centrado al estilo macOS o Windows 11, sin embargo, en Ubuntu no vamos a tenerlo así. Canonical ha decidido colocar este dock en vertical en su distro para mantener la estética del sistema lo más fiel a la original posible.</cite>
 
+![Interfaz](img/img06.png)
+
+<cite style="display:block; text-align: justify">También podemos destacar que el nuevo Ubuntu 21.10 incluirá un nuevo instalador. Este nuevo instalador ha sido creado en colaboración con Google y pretende brindar una experiencia mucho más sencilla y agradable al proceso de instalación. Este instalador aún está en fase «Canary», pero si bajamos una build daiyl de este nuevo Ubuntu ya podremos probarlo sin problemas y ayudaremos a Canonical a depurarlo de cara al lanzamiento final.
+
+Otras novedades interesantes que nos encontraremos en este nuevo Linux son:
+
+* El tema por defecto que usará será «Yaru Light».
+* Usará por defecto el servidor de escritorio Wayland, y los drivers de NVIDIA funcionarán en él.
+* El fondo por defecto será «Indri», una especie de primate.
+* Los paquetes y programas han sido actualizados a sus versiones más recientes, destacando: Firefox 89, LibreOffice 7.1 y Thunderbird 78.12.</cite>
+
+![Interfaz](img/img07.png)
+
