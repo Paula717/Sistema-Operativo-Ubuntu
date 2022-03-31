@@ -184,3 +184,11 @@ Los accesos manejan el ciclo de vida de la aplicación: implementación, integra
 
 Hay encantos tanto para las operaciones en la nube basadas en máquinas virtuales como para las operaciones en la nube basadas en Kubernetes. Los accesos pueden usar una variedad de sistemas operativos, pero la mayoría de los accesos están basados ​​en Ubuntu, por lo que se benefician de la seguridad estándar y la familiaridad del resto de Ubuntu.</cite>
 
+# Modelo de lanzamiento ubuntu 21.10 - Impish Indri
+
+<cite style="display:block; text-align: justify">En el mundo de la nube, es útil compartir el código de operaciones de software tanto como lo es compartir el código de las propias aplicaciones. En lugar de tener muchas organizaciones diferentes codificando operaciones por separado, Ubuntu permite la colaboración de operaciones basadas en la comunidad con un paquete estándar de "encanto" para operaciones.
+
+Los accesos manejan el ciclo de vida de la aplicación: implementación, integración y configuración, actualizaciones y desmontaje.
+
+Hay encantos tanto para las operaciones en la nube basadas en máquinas virtuales como para las operaciones en la nube basadas en Kubernetes. Los accesos pueden usar una variedad de sistemas operativos, pero la mayoría de los accesos están basados ​​en Ubuntu, por lo que se benefician de la seguridad estándar y la familiaridad del resto de Ubuntu.</cite>
+
