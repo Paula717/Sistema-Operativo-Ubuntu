@@ -10,7 +10,7 @@ Desde la consola podemos ejecutar todo tipo de comandos y archivos, desde los m�
 
 # Comandos para la administración de archivos en Linux
 
-# cd
+# 1. cd
 
 <cite style="display:block; text-align: justify">Cd (de change directory o cambiar directorio), es como su nombre lo indica el comando que necesitarás para acceder a una ruta distinta de la que te encuentras. 
 
@@ -25,7 +25,7 @@ Si estás en /home/ejercicios y deseas subir un nivel (es decir ir al directorio
 ![Comandos](img_Comandos_Linux/img02.png)
 </cite>
 
-# pwd
+# 2. pwd
 
 <cite style="display:block; text-align: justify">Pwd (de print working directory o imprimir directorio de trabajo), es un conveniente comando que imprime nuestra ruta o ubicación al momento de ejecutarlo, así evitamos perdernos si estamos trabajando con múltiples directorios y carpetas. Su sintaxis seria:
 
@@ -35,7 +35,7 @@ Si estás en /home/ejercicios y deseas subir un nivel (es decir ir al directorio
 ![Comandos](img_Comandos_Linux/img03.png)
 </cite>
 
-# ls
+# 3. ls
 
 <cite style="display:block; text-align: justify">Ls (de listar), permite listar el contenido de un directorio o fichero. La sintaxis es:
 
@@ -48,7 +48,7 @@ El comando ls tiene varias opciones que permiten organizar la salida, lo que res
 ![Comandos](img_Comandos_Linux/img04.png)
 </cite>
 
-# rmdir
+# 4. rmdir
 
 <cite style="display:block; text-align: justify">Elimina los directorios sólo si están vacíos. Su sintaxis es la siguiente:
 
@@ -67,7 +67,7 @@ Expliquemos un poco las opciones:
 * -version: Informa de la versión y finaliza.
 </cite>
 
-# touch
+# 5. touch
 
 <cite style="display:block; text-align: justify">Touch crea un archivo vacío, si el archivo existe actualiza la hora de modificación. 
 
@@ -77,7 +77,7 @@ Para crear el archivo prueba1.txt en /home, seria:
 
 </cite>
 
-# rm
+# 6. rm
 
 <cite style="display:block; text-align: justify">Rm (de remove o remover), es el comando necesario para borrar un archivo o directorio. Para borrar el archivo prueba.txt ubicado en /home, ejecutamos:
 
@@ -85,7 +85,7 @@ Para crear el archivo prueba1.txt en /home, seria:
 
 </cite>
 
-# mv
+# 7. mv
 
 <cite style="display:block; text-align: justify">Mv (de move o mover), mueve un archivo a una ruta específica, y a diferencia de cp, lo elimina del origen finalizada la operación. Por ejemplo:
 
@@ -95,7 +95,7 @@ Al igual que cp, en la sintaxis se especifica primero el origen y luego el desti
 
 </cite>
 
-# cp
+# 8. cp
 
 <cite style="display:block; text-align: justify">Cp (de copy o copiar), copia un archivo o directorio origen a un archivo o directorio destino. Por ejemplo, para copiar el archivo prueba.txt ubicado en /home a un directorio de respaldo, podemos usar:
 
@@ -109,7 +109,7 @@ El comando también cuenta con la opción -r que copia no sólo el directorio es
 
 </cite>
 
-# head
+# 9. head
 
 <cite style="display:block; text-align: justify">Éste es complementario al comando tail. head muestra las primeras 10 líneas de un archivo de texto, pero puede establecer cualquier número de líneas que desee mostrar con la flag -n:
 
@@ -119,7 +119,7 @@ El comando también cuenta con la opción -r que copia no sólo el directorio es
 ![Comandos](img_Comandos_Linux/img05.png)
 </cite>
 
-# less
+# 10. less
 
 <cite style="display:block; text-align: justify">less (opuesto a more) es un programa que permite inspeccionar archivos hacia atrás y hacia adelante: 
 
@@ -129,7 +129,7 @@ El comando también cuenta con la opción -r que copia no sólo el directorio es
 ![Comandos](img_Comandos_Linux/img06.png)
 </cite>
 
-# cat
+# 11. cat
 
 <cite style="display:block; text-align: justify">Cat (de concatenar), es una maravillosa utilidad que nos permite visualizar el contenido de un archivo de texto sin la necesidad de un editor. Para utilizarlo solo debemos mencionarlo junto al archivo que deseamos visualizar:
 
@@ -137,7 +137,7 @@ El comando también cuenta con la opción -r que copia no sólo el directorio es
 
 </cite>
 
-# wc
+# 12. wc
 
 <cite style="display:block; text-align: justify">Wc significa «word count» (recuento de palabras) y, como su nombre indica, devuelve el número de palabras de un archivo de texto:
 
@@ -157,7 +157,7 @@ Si solo necesitas el número de palabras, utiliza el indicador -w:
 
 </cite>
 
-# cut
+# 13. cut
 
 <cite style="display:block; text-align: justify">El comando de corte se usa en sistemas Linux y Unix para cortar partes y secciones de cada línea de un archivo y escribir el resultado en la salida estándar. Se puede utilizar para cortar partes de una línea por posición de byte, carácter y campo (delimitador).
 
@@ -224,14 +224,14 @@ Si ejecutamos cut sin un parámetro veremos el siguiente resultado:
 
 </cite>
 
-# grep
+# 14. grep
 
 <cite style="display:block; text-align: justify">Grep es una de las utilidades más potentes para trabajar con archivos de texto. Busca líneas que coincidan con una expresión regular y las imprime:
 
     grep "linux" long.txt
 </cite>
 
-# find
+# 15. find
 
 <cite style="display:block; text-align: justify">El comando find busca archivos en una jerarquía de directorios basándose en una expresión regex. Para utilizarlo, sigue la siguiente sintaxis:
 
@@ -247,7 +247,7 @@ Para buscar archivos que terminen con una extensión .py (Python), puedes utiliz
 
 </cite>
 
-# mount
+# 16. mount
 
 <cite style="display:block; text-align: justify">mount es un comando de sistemas basados en Unix que se utiliza para montar dispositivos y particiones para su uso por el sistema operativo. Montar es hacer que el sistema operativo proyecte el contenido de ese dispositivo o partición en un enlace lógico (un directorio). Cuando se desocupa se rompe el enlace y se sigue trabajando con los mismos archivos básicos.
 
@@ -259,7 +259,7 @@ El uso general del comando mount es el siguiente:
 
 </cite>
 
-# umount
+# 17. umount
 
 <cite style="display:block; text-align: justify">El comando umount le permite eliminar un sistema de archivos remoto que esté montando en la actualidad. El comando umount se puede utilizar con las opciones siguientes:
 
