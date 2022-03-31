@@ -114,5 +114,22 @@ De forma predeterminada, Ubuntu divide el software en cuatro secciones conocidas
 1. <b><u>No es el sistema operativo más innovador:</u></b> Una de las desventajas de Ubuntu más evidentes para los usuarios al recién instalarlo, es que este sistema no es uno de los más innovadores en cuanto a su aspecto, su interfaz y otras funcionalidades que los sistemas operativos más vanguardistas sí que han trabajado a lo largo de los años. Incluso, en el duelo de [Fedora vs Ubuntu][1_5], encontramos que esta otra distribución de Linux es mucho más actual y vanguardista.
 
    No obstante, no debemos olvidar que dentro de los foros de Ubuntu, la comunidad de usuarios siempre comparte trucos e información relevante que puede ayudar a que incluso los usuarios con menos experiencia sean capaces de modificar o agregar funciones que les parezcan interesantes y así mantener fresco el entusiasmo por este sistema.
-
 </cite>
+
+[1_6]:https://www.genbeta.com/linux/esta-disponible-gnome-40-probablemente-mayores-actualizaciones-gnome-3-mejores
+
+# Entorno de escritotio de Ubuntu 21.10 
+
+<cite style="display:block; text-align: justify">Ubuntu 21.10 incluye muchas innovaciones, principalmente el entorno de escritorio [GNOME 40][1_6] junto con la biblioteca GTK4. Los escritorios virtuales en el modo Vista general tienen ahora una orientación horizontal más clara. GNOME actualizado también significa una serie de mejoras en Wayland; especialmente porque ahora es compatible con el último controlador propietario de NVIDIA.
+
+Para admitir el nuevo hardware, el sistema se migró al kernel de Linux 5.13. Puede que esto no sea tan bueno como Linux 5.14, pero es un gran paso adelante de 5.11 en Ubuntu 21.04. En el nuevo SO se realizó la transición al algoritmo Zstd para comprimir paquetes Debian, por lo que su instalación es casi dos veces más rápida. Al mismo tiempo, el navegador predeterminado Mozilla Firefox ahora se suministra en un paquete Snap, lo que permitirá que se actualice más rápidamente, ya que es compatible con los desarrolladores del navegador. 
+
+Las novedades con GNOME 40 incluyen desde el nuevo diseño de la vista de actividades y nuevo lanzador de aplicaciones. Además, con la nueva versión de GNOME también se mejora el soporte multimonitor.
+
+
+Tras instalar Ubuntu 19.10 he tenido la experiencia de gaming en Linux más simple y completa de mi vida
+EN GENBETA
+Tras instalar Ubuntu 19.10 he tenido la experiencia de gaming en Linux más simple y completa de mi vida
+Tenemos nuevos gestos para el touchpad y nuevas acciones para el ratón. Ahora las áreas de trabajo se organizan de forma horizontal y a la lista de aplicaciones se accede de forma vertical. A diferencia del GNOME 40 vainilla, en Ubuntu se ha modificado para que el dock de aplicaciones siga apareciendo a la izquierda y las áreas de trabajo sigan arriba en lugar de abajo. </cite>
+
+
