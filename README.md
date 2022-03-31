@@ -132,4 +132,15 @@ EN GENBETA
 Tras instalar Ubuntu 19.10 he tenido la experiencia de gaming en Linux más simple y completa de mi vida
 Tenemos nuevos gestos para el touchpad y nuevas acciones para el ratón. Ahora las áreas de trabajo se organizan de forma horizontal y a la lista de aplicaciones se accede de forma vertical. A diferencia del GNOME 40 vainilla, en Ubuntu se ha modificado para que el dock de aplicaciones siga apareciendo a la izquierda y las áreas de trabajo sigan arriba en lugar de abajo. </cite>
 
+![Interfaz](img/img03.png)
+
+# Explorador de archivos de Ubuntu 21.10 
+
+<cite style="display:block; text-align: justify">El gestor de archivos proporciona una interfaz de usuario para administrar archivos y directorios. Las operaciones más comunes realizadas en archivos o grupos de archivos incluyen crear, abrir, ver, reproducir, editar o imprimir, cambiar nombre, copiar, mover, eliminar y buscar archivos; así como modificar sus atributos, propiedades y permisos de acceso.
+
+* <b>Nautilus</b> 
+
+  Este gestor es el que se encuentra por defecto en el entorno de escritorio de GNOME, Nautius cuenta con una interfaz intuitiva, este gestor puede ser complementado mediante plugins adicionales.</cite>
+
+![Interfaz](img/img04.png)
 
