@@ -31,7 +31,6 @@ Si estás en /home/ejercicios y deseas subir un nivel (es decir ir al directorio
 
     $ pwd
 
-
 ![Comandos](img_Comandos_Linux/img03.png)
 </cite>
 
@@ -276,4 +275,76 @@ Desmonta varios sistemas de archivos a la vez. Si se incluyen puntos de montaje 
 Fuerza un sistema de archivos ocupado para que se desmonte. Puede utilizar esta opción para desbloquear un cliente bloqueado cuando intenta montar un sistema de archivos desmontable.
 
 ![Comandos](img_Comandos_Linux/img10.png)
+</cite>
+
+# Comandos para la administración de procesos en Linux
+
+# 1. ps
+
+<cite style="display:block; text-align: justify">ps muestra por pantalla un listado de los procesos que se están ejecutando en el sistema.
+
+Si no añadimos ningún parámetro, ps mostrará los procesos del usuario con el que estamos logueados. Por otra parte, los parámetros más básicos a conocer son los siguientes:
+
+    -aux Lista los procesos de todos los usuarios con información añadida (destacamos más abajo).
+
+    -a Lista los procesos de todos los usuarios.
+
+    -u Lista información del proceso como por ejemplo el usuario que lo está corriendo, 
+    la utilización de Cpu y memoria, etc.
+
+    -x Lista procesos de todas las terminales y usuarios
+
+    -l Muestra información que incluye el UID y el valor «nice«.
+
+    –forest – Muestra el listado procesos en un formato tipo árbol que permite ver como los procesos interactúan entre sí, podría ser algo similar al comando pstree.
+
+Ejemplo de uso del comando ps:
+
+![Comandos](img_Comandos_Linux/img11.png)
+</cite>
+
+# 2. Top
+
+<cite style="display:block; text-align: justify">El comando top es muy útil ya que te puede ayudar a averiguar el estado de tu servidor, proporcionándote información sobre la carga actual, el número de días que lleva encendido sin reiniciarse, el número de usuarios conectados por SSH, y en definitiva información sobre tu servidor en tiempo real.
+Este comando se tiene que ejecutar desde SSH, por lo tanto, tendrás que acceder a tu servidor por SSH para poder utilizarlo:
+
+Al usar el comando #top aparecerá lo siguiente
+
+![Comandos](img_Comandos_Linux/img12.png)
+
+* <b>Línea 1:</b> Proporciona información sobre la hora actual, el tiempo que lleva encendido el servidor, el número de usuarios conectados y la carga del servidor en intervalos de 1, 5 y 15 minutos.
+
+* <b>Línea 2:</b> Muestra el número total de procesos, el número de procesos corriendo, el número de procesos “durmiendo”, el número de procesos parados y el número de procesos “zombie”.
+
+* <b>Línea 3:</b> Proporciona información sobre la carga de CPU.
+
+    * Porcentaje de CPU usada por los procesos de usuarios (20.8%us)
+    * Porcentaje de CPU usada para procesos del sistema (9.8%sy)
+    * Porcentaje de CPU con prioridad de upgrade nice (0.0%ni)
+    * Porcentaje de CPU que actualmente no se está usando (70.0%id)
+    * Porcentaje de CPU esperando para las operaciones I/O (0.0%wa)
+    * Porcentaje de CPU sirviendo interrupciones de hardware (0.0%hi)
+    * Porcentaje de CPU sirviendo interrupciones de software (0.2%si)
+    * La cantidad de CPU “robada” de esta máquina virtual por el hypervisor y otras tareas. Este proceso será de 0 en PCs de sobremesa y servidores sin máquinas virtuales (0.0%st)
+
+Líneas 4 y 5: Muestra información sobre el uso de la memoria y el swap.
+
+</cite>
+
+# 3. htop
+
+<cite style="display:block; text-align: justify">Es un visor de procesos para Linux, similar al comando top, pero más visual.
+
+Por ejemplo, permite moverse horizontal y verticalmente, permite una gran multitud de opciones, pero de forma más gráfica.
+
+
+![Comandos](img_Comandos_Linux/img13.png)
+
+</cite>
+
+
+# 4. kill
+<cite style="display:block; text-align: justify">Kill es un comando utilizado para enviar mensajes sencillos a los procesos ejecutándose en el sistema. Por defecto el mensaje que se envía es la señal de terminación (SIGTERM), que solicita al proceso limpiar su estado y salir. Pero kill no tiene por qué tener que ver con matar al proceso. El comando kill es un wrapper alrededor de la llamada al sistema kill(), que envía señales a procesos o grupos de procesos en el sistema, referenciados por sus IDs de proceso (PIDs) o IDs de grupo de procesos (PGIDs). kill se ofrece siempre como programa independiente, pero la mayoría de las shells tienen intrínsecamente comandos kill que pueden diferir levemente de ella.
+
+![Comandos](img_Comandos_Linux/img14.png)
 </cite>
