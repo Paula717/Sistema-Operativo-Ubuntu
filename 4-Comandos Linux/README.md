@@ -66,3 +66,55 @@ Expliquemos un poco las opciones:
 
 * -version: Informa de la versión y finaliza.
 </cite>
+
+# touch
+
+<cite style="display:block; text-align: justify">Touch crea un archivo vacío, si el archivo existe actualiza la hora de modificación. 
+
+Para crear el archivo prueba1.txt en /home, seria:
+
+    $ touch /home/prueba1.txt
+
+</cite>
+
+# rm
+
+<cite style="display:block; text-align: justify">Rm (de remove o remover), es el comando necesario para borrar un archivo o directorio. Para borrar el archivo prueba.txt ubicado en /home, ejecutamos:
+
+    $ rm /home/prueba.txt
+
+</cite>
+
+# mv
+
+<cite style="display:block; text-align: justify">Mv (de move o mover), mueve un archivo a una ruta específica, y a diferencia de cp, lo elimina del origen finalizada la operación. Por ejemplo:
+
+    $ mv /home/prueba.txt /home/respaldos/prueba2.txt
+
+Al igual que cp, en la sintaxis se especifica primero el origen y luego el destino. Si indicamos un nombre de destino diferente, mv moverá el archivo o directorio con el nuevo nombre.
+
+</cite>
+
+# cp
+
+<cite style="display:block; text-align: justify">Cp (de copy o copiar), copia un archivo o directorio origen a un archivo o directorio destino. Por ejemplo, para copiar el archivo prueba.txt ubicado en /home a un directorio de respaldo, podemos usar:
+
+    $ cp /home/prueba.txt /home/respaldo/prueba.txt
+
+En la sintaxis siempre se especifica primero el origen y luego el destino. Si indicamos un nombre de destino diferente, cp copiará el archivo o directorio con el nuevo nombre.
+
+El comando también cuenta con la opción -r que copia no sólo el directorio especificado sino todos sus directorios internos de forma recursiva. Suponiendo que deseamos hacer una copia del directorio /home/ejercicios que a su vez tiene las carpetas ejercicio1 y ejercicio2 en su interior, en lugar de ejecutar un comando para cada carpeta, ejecutamos:
+
+    $ cp -r /home/ejercicios /home/respaldos/
+
+</cite>
+
+# head
+
+<cite style="display:block; text-align: justify">Éste es complementario al comando tail. head muestra las primeras 10 líneas de un archivo de texto, pero puede establecer cualquier número de líneas que desee mostrar con la flag -n:
+
+* head long.txt
+* head -n 5 long.txt
+
+![Comandos](img_Comandos_Linux/img05.png)
+</cite>
