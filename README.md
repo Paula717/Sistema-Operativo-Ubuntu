@@ -30,7 +30,7 @@
 # Distribución Ubuntu
 <cite style="display:block; text-align: justify">[Ubuntu 21.10][1_0] es una [distribución de GNU/Linux][1_1] basada en [Debian][1_2], que incluye principalmente software libre y de código abierto.
 
-Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedio, con un fuerte enfoque en la facilidad de uso y en mejorar la experiencia del usuario. Está compuesto de múltiple software normalmente distribuido bajo una licencia libre o de código abierto. Estadísticas web sugieren que la cuota de mercado de Ubuntu dentro de las distribuciones Linux es, aproximadamente, del 52 %,3​4​ y con una tendencia a aumentar como servidor web.5​
+Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedio, con un fuerte enfoque en la facilidad de uso y en mejorar la experiencia del usuario. Está compuesto de múltiple software normalmente distribuido bajo una licencia libre o de código abierto. Estadísticas web sugieren que la cuota de mercado de Ubuntu dentro de las distribuciones Linux es, aproximadamente, del 52%, y con una tendencia a aumentar como servidor web.​
 
 Su patrocinador, [Canonical][1_3], es una compañía británica propiedad del empresario sudafricano [Mark Shuttleworth][1_4]. 
 
