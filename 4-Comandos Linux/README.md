@@ -270,4 +270,10 @@ Permite realizar pruebas
     –a
 
 Desmonta varios sistemas de archivos a la vez. Si se incluyen puntos de montaje con la opción –a, los sistemas de archivos se desmontan. Si no hay puntos de montaje incluidos, se realiza un intento de desmontar todos los sistemas de archivos que aparecen en /etc/mnttab, excepto los sistemas de archivos "necesarios", como /, /usr, /var, /proc, /dev/fd y /tmp. Como el sistema de archivos ya está montado y debe tener una entrada en /etc/mnttab, no tiene que incluir un indicador para el tipo de sistema de archivos.
+
+    –f
+
+Fuerza un sistema de archivos ocupado para que se desmonte. Puede utilizar esta opción para desbloquear un cliente bloqueado cuando intenta montar un sistema de archivos desmontable.
+
+![Comandos](img_Comandos_Linux/img10.png)
 </cite>
