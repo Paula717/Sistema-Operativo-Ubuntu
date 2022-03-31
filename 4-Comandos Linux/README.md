@@ -348,3 +348,18 @@ Por ejemplo, permite moverse horizontal y verticalmente, permite una gran multit
 
 ![Comandos](img_Comandos_Linux/img14.png)
 </cite>
+
+# 5. date
+<cite style="display:block; text-align: justify">El comando date es un comando existente en sistemas Unix y tipo unix que muestra la hora y la fecha del sistema y el administrador también puede cambiarla.
+
+![Comandos](img_Comandos_Linux/img15.png)
+</cite>
+
+# 6. man
+<cite style="display:block; text-align: justify">Man es una herramienta de sistemas Unix que se utiliza para documentar y aprender sobre comandos, archivos, llamadas de sistema, etc., en un sistema operativo tal como GNU/Linux.
+
+Actualmente se basa en groff y es el sistema más utilizado para la documentación en sistemas Unix, aunque son pocas las características útiles en comparación con el relativamente reciente comando info, que cuenta con características como enlaces que facilitan la interfaz de usuario, ya que al visitar la documentación relativa a un comando se puede saltar a otra página sin tener que salir y ejecutar nuevamente el programa, que es el caso de man.
+
+![Comandos](img_Comandos_Linux/img16.png)
+![Comandos](img_Comandos_Linux/img17.png)
+</cite>
